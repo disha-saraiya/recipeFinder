@@ -2,6 +2,11 @@
 
 Recipe Finder is a web application that will render recipes when you enter a particular ingredient. 
 
+## Heroku 
+
+https://recipefinder-2020.herokuapp.com/
+
+
 ## Installation (Running the application)
 
 Use the package manager [npm](https://www.npmjs.com/) to install and run this application.
